@@ -1,5 +1,3 @@
-Got it! Here’s the English version of your document.
-
 # Node Code Reference for Developers (Low Code Platform) – iConnector
 
 ## 1. Purpose of this Document
